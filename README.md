@@ -1,3 +1,4 @@
+
 # tdchnclassics
 Traditional CHiNese Classics(TDCHNClassics) – Korean Classical Chinese in Traditional Characters
 
@@ -7,11 +8,21 @@ This project is a Korean Classical Chinese database that is part of the **Daizhi
 
 Currently, only the **Four Books (사서)** section of the Confucian Classics is completed. The **Three Classics (삼경)** section is still under development.
 
----
+# Data Structure Description
 
-## About Searching
+- Data format: CSV files  
+- File titles (chapter names): Combination of numbers and Classical Chinese characters (e.g., 論語_1學而)  
+- Columns include:  
+  - Original Text (大文)  
+  - Annotations (注釋)  
+  - Original Text with Punctuation (大文標點)  
+  - Annotations with Punctuation (注釋標點)  
+  - Translation of Original Text (大文解釋) — written in Korean  
+  - Translation of Annotations (注釋解釋)  
 
-1. To search text within the documents, please use the black search bar located at the top of the webpage. This will search within this repository.
+# Text Verification and Sources
 
-2. To search for titles, please click the "Find file" button on the homepage. You can then enter the desired title in the search box that appears. Alternatively, click the button on the right labeled "Find file."
-
+- Proofreading basis for Classical Chinese text (including punctuation):  
+  - Corrections of typos and translation errors were made referencing Professor Sung Baek-hyo’s annotated translation of *Mencius (맹자집주)*  
+- Source of punctuation data:  
+  - Collected from Chinese academic websites
