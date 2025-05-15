@@ -23,6 +23,6 @@ Currently, only the **Four Books (사서)** section of the Confucian Classics is
 # Text Verification and Sources
 
 - Proofreading basis for Classical Chinese text (including punctuation):  
-  - Corrections of typos and translation errors were made referencing Professor Sung Baek-hyo’s annotated translation of *Mencius (맹자집주)*  
+  - Corrections of typos and translation errors were made referencing Professor Sung Baek-hyo’s annotated translation of *Mencius & Confucius (논어(ISBN:9788997970384),맹자집주(ISBN:9788991720510)*  
 - Source of punctuation data:  
   - Collected from Chinese academic websites
